@@ -2,7 +2,7 @@ Este software permite baixar e converter vídeos do YouTube de forma simples e r
 
 Após baixar e descompactar o programa, é necessário instalar o FFmpeg. Para isso, abra o Prompt de Comando (CMD) e execute o seguinte comando:
 
-winget install ffmpeg
+winget install Gyan.FFmpeg
 
 Depois da instalação, o programa já estará pronto para uso.
 
