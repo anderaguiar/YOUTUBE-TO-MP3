@@ -6,7 +6,7 @@ winget install Gyan.FFmpeg
 
 Depois da instalação, o programa já estará pronto para uso.
 
-[![Baixar o executável do YouTube-to-MP3](Captura-de-tela-2025-08-29-195304.png)](https://raw.githubusercontent.com/anderaguiar/YOUTUBE-TO-MP3/main/YouTubeMP3.exe)
+[![Baixar o executável do Convert YouTube](Captura-de-tela-2025-08-29-195304.png)](https://raw.githubusercontent.com/anderaguiar/YOUTUBE-TO-MP3/main/YouTubeMP3.exe)
 
 
 <img width="602" height="582" alt="Captura de tela 2025-08-29 195304" src="https://github.com/user-attachments/assets/6cff0338-cd4e-4e84-9108-0bce5277a701" />
