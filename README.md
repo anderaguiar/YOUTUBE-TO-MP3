@@ -12,3 +12,10 @@ Depois da instalação, o programa já estará pronto para uso.
 
 
 <img width="602" height="582" alt="Captura de tela 2025-08-29 195304" src="https://github.com/user-attachments/assets/6cff0338-cd4e-4e84-9108-0bce5277a701" />
+
+
+### Versão MacOS Arquitetura Intel e M1/M2/M3/M4.
+
+
+<img width="608" height="486" alt="Captura de Tela 2025-09-01 às 16 02 06" src="https://github.com/user-attachments/assets/497ebec2-dc7d-4d65-9aec-fd5ebdb7e559" />
+
