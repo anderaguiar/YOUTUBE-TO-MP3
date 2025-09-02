@@ -11,7 +11,8 @@ Depois da instalação, o programa já estará pronto para uso.
 [Baixar o executável do Convert YouTube](https://raw.githubusercontent.com/anderaguiar/YOUTUBE-TO-MP3/main/YouTubeMP3.exe)
 
 
-<img width="602" height="582" alt="Captura de tela 2025-08-29 195304" src="https://github.com/user-attachments/assets/6cff0338-cd4e-4e84-9108-0bce5277a701" />
+
+<img width="602" height="602" alt="Captura de tela 2025-09-01 223454" src="https://github.com/user-attachments/assets/ae11ef04-df47-464d-864c-8d1ba8a355dc" />
 
 
 ### Versão MacOS Arquitetura Intel e M1/M2/M3/M4.
