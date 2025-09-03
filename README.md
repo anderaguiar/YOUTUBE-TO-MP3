@@ -12,7 +12,8 @@ Depois da instalação, o programa já estará pronto para uso.
 
 
 
-<img width="602" height="602" alt="Captura de tela 2025-09-01 223454" src="https://github.com/user-attachments/assets/ae11ef04-df47-464d-864c-8d1ba8a355dc" />
+<img width="602" height="602" alt="Captura de tela 2025-09-03 143347" src="https://github.com/user-attachments/assets/cb2adc78-c25d-47dd-85e3-41888eeafd96" />
+
 
 
 ### Versão MacOS Arquitetura Intel e M1/M2/M3/M4.
