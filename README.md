@@ -1,6 +1,6 @@
-# Convert YouTube (Vídeo & MP3)
+# Convert YouTube ou Instagram (Vídeo & MP3)
 
-Este software permite baixar e converter vídeos do YouTube de forma simples e rápida. O usuário pode selecionar a qualidade do áudio ao converter para MP3 e também escolher a qualidade do vídeo ao realizar o download. Para vídeos em alta qualidade é necessário ter o VLC Player instalado para reprodução. O programa também oferece suporte a playlists e mixes do YouTube: basta copiar a URL que ele fará o download ou a conversão de todos os vídeos automaticamente. O processamento de áudio e vídeo é feito utilizando o FFmpeg.
+Este software permite baixar e converter vídeos do YouTube ou do Instagram de forma simples e rápida. O usuário pode selecionar a qualidade do áudio ao converter para MP3 e também escolher a qualidade do vídeo ao realizar o download. Para vídeos em alta qualidade é necessário ter o VLC Player instalado para reprodução. O programa também oferece suporte a playlists e mixes do YouTube: basta copiar a URL que ele fará o download ou a conversão de todos os vídeos automaticamente. O processamento de áudio e vídeo é feito utilizando o FFmpeg.
 
 Após baixar e descompactar o programa, é necessário instalar o FFmpeg. Para isso, abra o Prompt de Comando (CMD) e execute o seguinte comando:
 
